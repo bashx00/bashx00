@@ -2,6 +2,12 @@
 
 ###
 
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=IEL&logo=IEL&label=&color=eb236c&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="IEL logo"/>
+  <img src="https://img.shields.io/static/v1?message=AEL&logo=AEL&label=&color=9e23eb&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="AEL logo"/>
+
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"/>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
