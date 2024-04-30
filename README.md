@@ -3,8 +3,8 @@
 ###
 
 <div align="right">
-  <img src="https://img.shields.io/static/v1?message=IEL&logo=IEL&label=&color=eb236c&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="IEL logo"/>
-  <img src="https://img.shields.io/static/v1?message=AEL&logo=AEL&label=&color=9e23eb&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="AEL logo"/>
+  <img src="https://img.shields.io/static/v1?message=IEL&logo=IEL&label=&color=eb236c&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="IEL logo"/>
+  <img src="https://img.shields.io/static/v1?message=AEL&logo=AEL&label=&color=9e23eb&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="AEL logo"/>
 
 </div>
 
